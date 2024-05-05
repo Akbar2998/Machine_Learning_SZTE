@@ -5,7 +5,7 @@ This repository contains all the necessary files and code for building and evalu
 
 ## Datasets
 The project uses two main datasets:
-- `winequality-red.csv`: Data on red wines.
+- `winequality-red.csv`: Data on red wines.  
 - `winequality-white.csv`: Data on white wines.
 
 These datasets include several variables related to the chemical properties of wines, which are used to predict wine quality.
